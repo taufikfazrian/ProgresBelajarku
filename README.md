@@ -6,7 +6,8 @@ Belajar kelas Memulai Pemrograman Dengan C. (Progres 29%)
   * Program tanpa kembalian nilai
   * Program dengan kembalian nilai
   * Pengisian nilai variabel
-  * Pengisian nilai dengan inisialisasi  
+  * Pengisian nilai dengan inisialisasi
+
 **4 Agustus 2021**  
 Belajar kelas Memulai Pemrograman Bahasa C. (Progres 58%)
   * Pengisian Nilai dengan assignment
