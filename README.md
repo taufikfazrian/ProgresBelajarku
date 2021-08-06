@@ -19,3 +19,13 @@ Belajar kelas Memulai Pemrograman Bahasa C. (Progres 58%)
   * Operasi aritmatika dan boolean
   * Gabungan operasi boolean dan relasional
   * Operasi penambahan satu pada nilai integer (Increment)
+
+**6 Agustus 2021**  
+Belajar kelas Memulai Pemrograman Bahasa C. (Progres 72%)
+  * Intruksi Kondisional
+    * Intruksi if
+    * Intruksi if-else
+    * Intruksi i-elseif
+  * Intruksi Perulangan
+    * Perulangan for
+    * Perulangan while-do
